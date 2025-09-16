@@ -25,3 +25,8 @@ The project integrates multiple models for **helmet detection, seatbelt complian
 - **OCR**: Tesseract OCR  
 
 ---
+
+SCREENSHOT - 
+
+<img width="1245" height="609" alt="image" src="https://github.com/user-attachments/assets/9e3ba8a5-8c03-4833-b05a-8afee7696524" />
+
